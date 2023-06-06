@@ -1,0 +1,12 @@
+--21) Create a Stored Procedure to fetch the result according to the product type from Product.
+--22) Write a query by creating a condition in which if the total expenses is less than 60 then it is a
+--profit or else loss.
+--23) Give the total weekly sales value with the Date and productid details. Use roll-up to pull the
+--data in hierarchical order.
+--24) Apply union and intersection operator on the tables which consist of attribute area code.
+--25) Create a user-defined function for the product table to fetch a particular product type based
+--upon the user’s preference.
+--26) Change the product type from coffee to tea where product id is 1 and undo it.
+--27) Display the Date, productid and sales where total expenses are between 100 to 20
+--28) Delete the records in the product table for regular type.
+--29) Display the ASCII value of the fifth character from the column product
